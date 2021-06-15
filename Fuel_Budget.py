@@ -9,7 +9,7 @@ print(p)
 ########################################## HOME PAGE ##########################################
 
 print('\nEnter cost of fuel:')
-Fuel = float(input(''.center(20)))
+fuel = float(input(''.center(20)))
 
 print('\nEnter Average of Vehicle:')
 avrg = float(input(''.center(20)))
